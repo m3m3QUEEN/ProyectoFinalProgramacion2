@@ -1,0 +1,7 @@
+C:/Users/jesui/OneDrive/Documentos/MusicPlayer/build/Desktop-Release/CMakeFiles/MusicPlayer.dir
+C:/Users/jesui/OneDrive/Documentos/MusicPlayer/build/Desktop-Release/CMakeFiles/edit_cache.dir
+C:/Users/jesui/OneDrive/Documentos/MusicPlayer/build/Desktop-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/jesui/OneDrive/Documentos/MusicPlayer/build/Desktop-Release/CMakeFiles/list_install_components.dir
+C:/Users/jesui/OneDrive/Documentos/MusicPlayer/build/Desktop-Release/CMakeFiles/install.dir
+C:/Users/jesui/OneDrive/Documentos/MusicPlayer/build/Desktop-Release/CMakeFiles/install/local.dir
+C:/Users/jesui/OneDrive/Documentos/MusicPlayer/build/Desktop-Release/CMakeFiles/install/strip.dir
